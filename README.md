@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Istofar
 - 👀 I’m interested in Gaming, Anime and Coding
 - 🌱 I’m currently learning React, Node...
-- 💞️ I’m looking to collaborate on any Unreal Engine Internshp course
+- 💞️ I’m looking to collaborate on any Unreal Engine Internship course
 - 📫 How to reach me +2349023463644
 
 <!---
